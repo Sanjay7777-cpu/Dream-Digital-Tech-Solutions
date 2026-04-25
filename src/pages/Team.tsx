@@ -8,6 +8,7 @@ import FloatingBubbles from "@/components/ui/FloatingBubbles";
 import profileImage from "../assets/sk.jpg";
 import profileImage2 from "../assets/AA.png";
 import profileImage3 from "../assets/dp.png";
+import profileImage4 from "../assets/kal.png";
 
 const teamMembers = [
   {
@@ -26,6 +27,17 @@ const teamMembers = [
     role: "Founder & CTO",
     bio: "Award-winning Video Editor, Passionate about creating memorable Brand experiences.",
       image: profileImage2,
+    socials: {
+      linkedin: "#",
+      twitter: "#",
+      instagram: "#",
+    },
+  },
+  {
+    name: "Kalpit Dhakal",
+    role: "Project Manager & Cybersecurity Expert",
+    bio: "Award-winning Video Editor, Passionate about creating memorable Brand experiences.",
+      image: profileImage4,
     socials: {
       linkedin: "#",
       twitter: "#",
