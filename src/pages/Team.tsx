@@ -35,8 +35,8 @@ const teamMembers = [
   },
   {
     name: "Kalpit Dhakal",
-    role: "Project Manager & Cybersecurity Expert",
-    bio: "Award-winning Video Editor, Passionate about creating memorable Brand experiences.",
+    role: "Project Manager",
+    bio: "Highgly Experienced in project management and team leadership.",
       image: profileImage4,
     socials: {
       linkedin: "#",
