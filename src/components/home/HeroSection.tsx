@@ -24,7 +24,7 @@ const HeroSection = () => {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-8"
           >
             <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
-            <span className="text-sm text-foreground/80">Premium Digital Agency</span>
+            <span className="text-sm text-foreground/80">Dream Digital Tech Solution Pvt. Ltd. </span>
           </motion.div>
 
           {/* Main Heading */}

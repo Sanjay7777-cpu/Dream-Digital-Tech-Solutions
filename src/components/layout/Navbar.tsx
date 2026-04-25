@@ -47,7 +47,7 @@ const Navbar = () => {
             <motion.img
               src={logo}
               alt="Dream Digital Tech Solutions"
-              className="h-12 md:h-14 w-auto"
+              className="h-20 md:h-30 w-auto"
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
             />

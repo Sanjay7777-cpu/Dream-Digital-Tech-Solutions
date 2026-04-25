@@ -116,8 +116,7 @@ const Services = () => {
                 <span className="text-primary text-glow">Solutions</span>
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-                Comprehensive digital services designed to elevate your brand, 
-                engage your audience, and accelerate your business growth.
+                Dream Digital Transform Your Business Into Brand
               </p>
             </motion.div>
           </div>

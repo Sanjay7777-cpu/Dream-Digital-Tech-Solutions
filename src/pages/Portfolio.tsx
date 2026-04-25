@@ -108,7 +108,7 @@ const Portfolio = () => {
               </h1>
 
               <p className="text-muted-foreground text-lg">
-                Explore our portfolio and see how we help businesses grow with
+                Explore Dream Digital portfolio and see how we help businesses grow with
                 powerful digital solutions.
               </p>
             </motion.div>
